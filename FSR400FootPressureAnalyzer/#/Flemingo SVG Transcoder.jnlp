@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp
+    spec="1.0+"
+    codebase="http://people.apache.org/~ebourg/svg/"
+    href="launch.jnlp">
+  <information>
+    <title>SVG Transcoder GUI</title>
+    <vendor>SVG Transcoder Project</vendor>
+    <homepage href="https://github.com/ebourg/flamingo-svg-transcoder"/>
+    <description>Transform SVG images into Java2D icons for your Swing applications</description>
+  </information>
+  <security>
+     <all-permissions/>
+  </security>
+  <resources>
+    <j2se version="1.7+"/>
+         
+    <jar href="flamingo-svg-transcoder-gui-nodeps.jar" main="true"/>
+    <!--
+    <jar href="flamingo-svg-transcoder-core-1.1.1.jar"/>
+    <jar href="batik-swing-1.7.jar"/>
+    <jar href="batik-awt-util-1.7.jar"/>
+    <jar href="batik-util-1.7.jar"/>
+    <jar href="batik-bridge-1.7.jar"/>
+    <jar href="batik-anim-1.7.jar"/>
+    <jar href="batik-dom-1.7.jar"/>
+    <jar href="batik-css-1.7.jar"/>
+    <jar href="batik-ext-1.7.jar"/>
+    <jar href="xml-apis-ext-1.3.04.jar"/>
+    <jar href="batik-xml-1.7.jar"/>
+    <jar href="batik-parser-1.7.jar"/>
+    <jar href="batik-svg-dom-1.7.jar"/>
+    <jar href="batik-gvt-1.7.jar"/>
+    <jar href="batik-script-1.7.jar"/>
+    <jar href="batik-gui-util-1.7.jar"/>
+    <jar href="swingx-core-1.6.4.jar"/>
+    <jar href="swingx-autocomplete-1.6.4.jar"/>
+    <jar href="swingx-common-1.6.4.jar"/>
+    <jar href="swingx-action-1.6.4.jar"/>
+    <jar href="swingx-plaf-1.6.4.jar"/>
+    <jar href="swingx-painters-1.6.4.jar"/>
+    <jar href="miglayout-swing-4.2.jar"/>
+    <jar href="miglayout-core-4.2.jar"/>
+    -->
+
+  </resources>
+  <application-desc main-class="org.pushingpixels.flamingo.api.svg.SVGApplication"/>
+</jnlp>
+

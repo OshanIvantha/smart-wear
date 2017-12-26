@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {0.1}Introduction}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {section}{\numberline {0.2}Technical specifications}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {section}{\numberline {0.3}Software}{5}
+\contentsline {section}{\numberline {0.4}Summary}{6}
